@@ -1,5 +1,6 @@
 
 ss
+<<<<<<< HEAD
 it ssss fdf
 
 ffffff
