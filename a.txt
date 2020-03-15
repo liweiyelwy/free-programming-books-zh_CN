@@ -7,3 +7,6 @@ ffffff
 eeeeeeeeeeeedd
 dddddddddd
 eeeeeeeeeee
+
+
+/usr/orayapp/oraynewph -s 0.0.0.0 -c /var/log/phddns/core.log -p /var/log/phddns -l oraynewph -f /etc -t /etc/init.status -i /tmp/oraynewph.pid -u /tmp/oraynewph.status -x
